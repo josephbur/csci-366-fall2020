@@ -11,7 +11,7 @@ Please use the following steps to create a *private* version of this repo for yo
     - Going to <https://github.com/new>
     - Enter the name `csci-366-fall2020`
     - Select `Private`
-    - Navigate to the Settings -> Manage Access section
+    - Navigate to the `Settings` -> `Manage Access` section
     - Add `1cg` as a collaborator
 - Now run the following git commands, substituting your Github user name and email where required:
 ```bash
