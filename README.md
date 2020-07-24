@@ -3,7 +3,7 @@
 This is the base upstream repository for CSCI 366.  It contains homeworks as well as the class project 
 information.
 
-## Getting Your Private Copy
+## Getting Your Private Copy (Clone)
 
 Please use the following steps to create a *private* version of this repo for your work:
 
@@ -30,7 +30,7 @@ When you want to get an update from the public class repository you can run this
 $ git pull upstream master
 ```
 
-## Getting Your Public Copy
+## Getting Your Public Copy (Fork)
 
 Next, please fork this repository to your personal account.  You will now have two copies of the project, one public and one private.
 
