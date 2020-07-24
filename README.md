@@ -5,8 +5,6 @@ information.
 
 ## Getting Your Private Copy
 
-Rather than the traditional Forking model, we are going to use a Copy model for the class.
-
 Please use the following steps to create a *private* version of this repo for your work:
 
 - Create a *private* repository in your own account by
@@ -32,15 +30,15 @@ When you want to get an update from the public class repository you can run this
 $ git pull upstream master
 ```
 
-## Registering Your Private Copy
+## Getting Your Public Copy
 
 Next, please fork this repository to your personal account.  You will now have two copies of the project, one public and one private.
 
-The private repository will be used for grading.
+The private repository will be used for your work and our grading.
 
 The public repository can be used for contibuting back to the class project.  **DO NOT PUSH WORK CODE TO THIS REPOSITORY**
 
-I highly recommend against cloning the public respoitory to your local system, to avoid confusion.  You can edit files in the public repository via the web interface, and will be much safer.
+I highly recommend against cloning the public respoitory to your local system, to avoid confusion between the two.  You can edit files in the public repository via the web interface, and that will be much safer.
 
 ## Homeworks
 
