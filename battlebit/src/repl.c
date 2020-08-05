@@ -9,6 +9,8 @@
 #include "server.h"
 #include "char_buff.h"
 
+extern void nasm_hello_world();
+
 struct char_buff * repl_read_command(char * prompt) {
     printf("%s", prompt);
     char *line = NULL;
@@ -68,6 +70,8 @@ void repl_execute_command(struct char_buff * buffer) {
 
             // work with game_fire
 
+        } else if (strcmp(command, "nasm") == 0) {
+            nasm_hello_world();
         } else {
             printf("Unknown Command: %s\n", command);
         }
